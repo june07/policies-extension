@@ -1,0 +1,8 @@
+{
+    "appName": { "message": "Policies Extension" },
+    "appShortName": { "message": "Policies" },
+    "appDescription": { "message": "Single Click, Git Hosted, Policy Documents" },
+    "defaultTitle": { "message": "Policies Extension" },
+    "keyCtrl1": { "message": "1st Key Shortcut" },
+    "donationModalHeader": { "message": "Donations Appreciated" }
+}

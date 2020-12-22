@@ -1,0 +1,27 @@
+{
+  "name": "policies-extension",
+  "version": "1.0.0",
+  "description": "\"# policies-extension\"",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/june07/policies-extension.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/june07/policies-extension/issues"
+  },
+  "homepage": "https://github.com/june07/policies-extension#readme",
+  "dependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-json-editor": "^2.5.4",
+    "gulp-zip": "^5.0.2"
+  }
+}
