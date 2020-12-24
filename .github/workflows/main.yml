@@ -36,5 +36,5 @@ jobs:
 
       - uses: actions/upload-artifact@v2
         with:
-          name: zipped-extension
+          name: archive
           path: dist/archive-*.zip
