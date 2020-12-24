@@ -7,21 +7,26 @@ function upload(policy) {
 
     return new Promise((resolve, reject) => {
         let { name, content } = policy,
-            headers
+            options = {
+                withCredentials: true
+            },
+            data
 
-        if (content.data) headers = {
-            'content-type': content.headers['content-type']
-        }
-        axios.post('https://dev-policies.june07.com/extension/policies/add', {
-            withCredentials: true,
-            headers,
-            data: {
+        if (content.data) {
+            Object.assign(options, {
+                headers: { 'content-type': 'multipart/form-data' }
+            })
+            data = new FormData()
+            data.append('policy', content.data, name)
+        } else {
+            data = {
                 policies: [{
                     name,
                     content
                 }]
             }
-        })
+        }
+        axios.post('https://policies.june07.com/extension/policies/add', data, options)
         .then(response => {
             resolve(response)
         })
@@ -32,7 +37,9 @@ function upload(policy) {
 }
 function downloadFromGenerator(url) {
     return new Promise((resolve, reject) => {
-        axios.get(url)
+        axios.get(url, {
+            responseType: 'blob'
+        })
         .then(response => {
             resolve(response)
         })
@@ -130,6 +137,11 @@ chrome.runtime.onMessage.addListener(
             })()
         }
         return true
+    }
+)
+chrome.runtime.onMessageExternal.addListener(
+    function(request, sender, sendResponse) {
+        if (request && request.message && request.message === 'version') sendResponse({ version: chrome.runtime.getManifest().version })
     }
 )
 chrome.browserAction.onClicked.addListener(() => {

@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="promo.svg"
+   inkscape:version="1.0rc1 (09960d6f05, 2020-04-09)"
+   inkscape:export-ydpi="25.4"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-filename="C:\Users\Stark\code\policies-extension\images\promo-440x280.png"
+   id="svg885"
+   version="1.1"
+   viewBox="0 0 440 280"
+   height="280mm"
+   width="440mm">
+  <defs
+     id="defs879">
+    <rect
+       id="rect2567"
+       height="233.58929"
+       width="594.93452"
+       y="9.827381"
+       x="-44.60119" />
+    <rect
+       id="rect2561"
+       height="365.125"
+       width="332.61905"
+       y="-35.529762"
+       x="-50.64881" />
+    <rect
+       id="rect2555"
+       height="70.303571"
+       width="5.2916667"
+       y="126.24405"
+       x="148.92262" />
+    <rect
+       id="rect2545"
+       height="158.75"
+       width="260.80357"
+       y="25.702381"
+       x="20.410714" />
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient1008">
+      <stop
+         id="stop1006"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       x="-0.15"
+       width="1.3"
+       y="-0.15"
+       height="1.3"
+       inkscape:label="Ink Blot"
+       id="filter1152">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="4.25714 3.21702"
+         result="blur1"
+         id="feGaussianBlur1142" />
+      <feTurbulence
+         type="turbulence"
+         baseFrequency="0.04"
+         numOctaves="2"
+         seed="0"
+         result="turbulence"
+         id="feTurbulence1144" />
+      <feDisplacementMap
+         in="blur1"
+         in2="turbulence"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="32.07"
+         result="map"
+         id="feDisplacementMap1146" />
+      <feGaussianBlur
+         in="map"
+         stdDeviation="7.72419"
+         result="blur2"
+         id="feGaussianBlur1148" />
+      <feComposite
+         in="blur2"
+         in2="map"
+         operator="over"
+         result="composite"
+         id="feComposite1150" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       x="-0.15"
+       width="1.3"
+       y="-0.15"
+       height="1.3"
+       inkscape:label="Ink Blot"
+       id="filter1164">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="4.25714 3.21702"
+         result="blur1"
+         id="feGaussianBlur1154" />
+      <feTurbulence
+         type="turbulence"
+         baseFrequency="0.04"
+         numOctaves="2"
+         seed="0"
+         result="turbulence"
+         id="feTurbulence1156" />
+      <feDisplacementMap
+         in="blur1"
+         in2="turbulence"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="32.07"
+         result="map"
+         id="feDisplacementMap1158" />
+      <feGaussianBlur
+         in="map"
+         stdDeviation="7.72419"
+         result="blur2"
+         id="feGaussianBlur1160" />
+      <feComposite
+         in="blur2"
+         in2="map"
+         operator="over"
+         result="composite"
+         id="feComposite1162" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       x="-0.15"
+       width="1.3"
+       y="-0.15"
+       height="1.3"
+       inkscape:label="Ink Blot"
+       id="filter1176">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="4.25714 3.21702"
+         result="blur1"
+         id="feGaussianBlur1166" />
+      <feTurbulence
+         type="turbulence"
+         baseFrequency="0.04"
+         numOctaves="2"
+         seed="0"
+         result="turbulence"
+         id="feTurbulence1168" />
+      <feDisplacementMap
+         in="blur1"
+         in2="turbulence"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="32.07"
+         result="map"
+         id="feDisplacementMap1170" />
+      <feGaussianBlur
+         in="map"
+         stdDeviation="7.72419"
+         result="blur2"
+         id="feGaussianBlur1172" />
+      <feComposite
+         in="blur2"
+         in2="map"
+         operator="over"
+         result="composite"
+         id="feComposite1174" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       x="-0.15"
+       width="1.3"
+       y="-0.15"
+       height="1.3"
+       inkscape:label="Ink Blot"
+       id="filter1188">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="4.25714 3.21702"
+         result="blur1"
+         id="feGaussianBlur1178" />
+      <feTurbulence
+         type="turbulence"
+         baseFrequency="0.04"
+         numOctaves="2"
+         seed="0"
+         result="turbulence"
+         id="feTurbulence1180" />
+      <feDisplacementMap
+         in="blur1"
+         in2="turbulence"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="32.07"
+         result="map"
+         id="feDisplacementMap1182" />
+      <feGaussianBlur
+         in="map"
+         stdDeviation="7.72419"
+         result="blur2"
+         id="feGaussianBlur1184" />
+      <feComposite
+         in="blur2"
+         in2="map"
+         operator="over"
+         result="composite"
+         id="feComposite1186" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       x="-0.15"
+       width="1.3"
+       y="-0.15"
+       height="1.3"
+       inkscape:label="Ink Blot"
+       id="filter1200">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="4.25714 3.21702"
+         result="blur1"
+         id="feGaussianBlur1190" />
+      <feTurbulence
+         type="turbulence"
+         baseFrequency="0.04"
+         numOctaves="2"
+         seed="0"
+         result="turbulence"
+         id="feTurbulence1192" />
+      <feDisplacementMap
+         in="blur1"
+         in2="turbulence"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="32.07"
+         result="map"
+         id="feDisplacementMap1194" />
+      <feGaussianBlur
+         in="map"
+         stdDeviation="7.72419"
+         result="blur2"
+         id="feGaussianBlur1196" />
+      <feComposite
+         in="blur2"
+         in2="map"
+         operator="over"
+         result="composite"
+         id="feComposite1198" />
+    </filter>
+    <filter
+       id="filter1152-3"
+       inkscape:label="Ink Blot"
+       height="1.3"
+       y="-0.15000001"
+       width="1.3"
+       x="-0.15000001"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur1142-9"
+         result="blur1"
+         stdDeviation="4.25714 3.21702"
+         in="SourceGraphic" />
+      <feTurbulence
+         id="feTurbulence1144-9"
+         result="turbulence"
+         seed="0"
+         numOctaves="2"
+         baseFrequency="0.04"
+         type="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap1146-5"
+         result="map"
+         scale="32.07"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in2="turbulence"
+         in="blur1" />
+      <feGaussianBlur
+         id="feGaussianBlur1148-4"
+         result="blur2"
+         stdDeviation="7.72419"
+         in="map" />
+      <feComposite
+         id="feComposite1150-2"
+         result="composite"
+         operator="over"
+         in2="map"
+         in="blur2" />
+    </filter>
+    <filter
+       id="filter1164-4"
+       inkscape:label="Ink Blot"
+       height="1.3"
+       y="-0.15000001"
+       width="1.3"
+       x="-0.15000001"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur1154-4"
+         result="blur1"
+         stdDeviation="4.25714 3.21702"
+         in="SourceGraphic" />
+      <feTurbulence
+         id="feTurbulence1156-8"
+         result="turbulence"
+         seed="0"
+         numOctaves="2"
+         baseFrequency="0.04"
+         type="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap1158-7"
+         result="map"
+         scale="32.07"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in2="turbulence"
+         in="blur1" />
+      <feGaussianBlur
+         id="feGaussianBlur1160-1"
+         result="blur2"
+         stdDeviation="7.72419"
+         in="map" />
+      <feComposite
+         id="feComposite1162-1"
+         result="composite"
+         operator="over"
+         in2="map"
+         in="blur2" />
+    </filter>
+    <filter
+       id="filter1176-5"
+       inkscape:label="Ink Blot"
+       height="1.3"
+       y="-0.15000001"
+       width="1.3"
+       x="-0.15000001"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur1166-6"
+         result="blur1"
+         stdDeviation="4.25714 3.21702"
+         in="SourceGraphic" />
+      <feTurbulence
+         id="feTurbulence1168-7"
+         result="turbulence"
+         seed="0"
+         numOctaves="2"
+         baseFrequency="0.04"
+         type="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap1170-1"
+         result="map"
+         scale="32.07"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in2="turbulence"
+         in="blur1" />
+      <feGaussianBlur
+         id="feGaussianBlur1172-3"
+         result="blur2"
+         stdDeviation="7.72419"
+         in="map" />
+      <feComposite
+         id="feComposite1174-5"
+         result="composite"
+         operator="over"
+         in2="map"
+         in="blur2" />
+    </filter>
+    <filter
+       id="filter1188-9"
+       inkscape:label="Ink Blot"
+       height="1.3"
+       y="-0.15000001"
+       width="1.3"
+       x="-0.15000001"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur1178-1"
+         result="blur1"
+         stdDeviation="4.25714 3.21702"
+         in="SourceGraphic" />
+      <feTurbulence
+         id="feTurbulence1180-2"
+         result="turbulence"
+         seed="0"
+         numOctaves="2"
+         baseFrequency="0.04"
+         type="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap1182-0"
+         result="map"
+         scale="32.07"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in2="turbulence"
+         in="blur1" />
+      <feGaussianBlur
+         id="feGaussianBlur1184-4"
+         result="blur2"
+         stdDeviation="7.72419"
+         in="map" />
+      <feComposite
+         id="feComposite1186-2"
+         result="composite"
+         operator="over"
+         in2="map"
+         in="blur2" />
+    </filter>
+    <filter
+       id="filter1200-3"
+       inkscape:label="Ink Blot"
+       height="1.3"
+       y="-0.15000001"
+       width="1.3"
+       x="-0.15000001"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur1190-8"
+         result="blur1"
+         stdDeviation="4.25714 3.21702"
+         in="SourceGraphic" />
+      <feTurbulence
+         id="feTurbulence1192-4"
+         result="turbulence"
+         seed="0"
+         numOctaves="2"
+         baseFrequency="0.04"
+         type="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap1194-8"
+         result="map"
+         scale="32.07"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in2="turbulence"
+         in="blur1" />
+      <feGaussianBlur
+         id="feGaussianBlur1196-4"
+         result="blur2"
+         stdDeviation="7.72419"
+         in="map" />
+      <feComposite
+         id="feComposite1198-8"
+         result="composite"
+         operator="over"
+         in2="map"
+         in="blur2" />
+    </filter>
+    <rect
+       x="20.410713"
+       y="25.702381"
+       width="260.80356"
+       height="158.75"
+       id="rect2545-9" />
+    <rect
+       x="20.410713"
+       y="25.702381"
+       width="260.80356"
+       height="158.75"
+       id="rect2580" />
+    <rect
+       x="20.410713"
+       y="25.702381"
+       width="260.80356"
+       height="158.75"
+       id="rect2545-4" />
+    <rect
+       x="20.410713"
+       y="25.702381"
+       width="260.80356"
+       height="158.75"
+       id="rect2580-8" />
+    <rect
+       x="20.410713"
+       y="25.702381"
+       width="260.80356"
+       height="158.75"
+       id="rect2545-98" />
+    <rect
+       x="20.410713"
+       y="25.702381"
+       width="260.80356"
+       height="158.75"
+       id="rect2580-7" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="350"
+     inkscape:window-x="4508"
+     inkscape:window-height="1313"
+     inkscape:window-width="2066"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="mm"
+     inkscape:cy="296.59292"
+     inkscape:cx="1122.0214"
+     inkscape:zoom="0.35355339"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata882">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="background"
+     style="display:none">
+    <rect
+       style="fill:#f9f9f9;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect1012"
+       width="466.9733"
+       height="300.09021"
+       x="0"
+       y="-8.9802551" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="white band"
+     style="display:inline">
+    <rect
+       y="39.580162"
+       x="-21.017426"
+       height="200.83968"
+       width="482.03485"
+       id="rect993"
+       style="fill:#ffffff;stroke:none;stroke-width:0.960342;stroke-linecap:round;stroke-linejoin:bevel" />
+    <rect
+       y="61.365082"
+       x="105.51801"
+       height="54.629894"
+       width="77.080544"
+       id="rect994"
+       style="fill:#0066ff;fill-opacity:1;stroke-width:0.863417;stroke-linecap:round;stroke-linejoin:bevel" />
+    <rect
+       y="109.25978"
+       x="64.358505"
+       height="50.888119"
+       width="107.01472"
+       id="rect996"
+       style="fill:#ffeeaa;fill-opacity:1;stroke-width:1.20996;stroke-linecap:round;stroke-linejoin:bevel" />
+    <rect
+       y="157.90285"
+       x="101.02788"
+       height="55.37825"
+       width="163.88968"
+       id="rect998"
+       style="opacity:1;fill:#ff5555;fill-opacity:1;stroke-width:0.889447;stroke-linecap:round;stroke-linejoin:bevel" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       transform="matrix(0.38859877,0,0,0.38859877,263.50586,45.719674)"
+       id="g2095"
+       inkscape:export-filename="C:\Users\Stark\code\policies-extension\icon\favicon-128x128page.png"
+       inkscape:export-xdpi="67.396111"
+       inkscape:export-ydpi="67.396111">
+      <path
+         style="stroke-width:7.71422"
+         d="m 120.03783,407.09213 c 85.62786,16.19987 187.4556,28.54263 273.08347,4.62854 12.34276,-3.85711 10.02849,-23.14267 -3.08569,-23.14267 -42.42822,0 -84.85644,6.9428 -127.28467,6.9428 -45.51391,-0.77142 -91.02782,-5.39996 -136.54174,-13.8856 -15.42844,-3.08569 -22.37124,22.37124 -6.17137,25.45693 z"
+         id="path4"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ff5555;stroke-width:7.71422"
+         d="m 122.16344,159.17506 c -12.34276,3.85712 -10.02849,22.37125 3.08569,22.37125 43.19964,0 86.39928,-7.71422 129.59893,-9.25707 43.19964,-0.77142 87.17071,0.77142 130.37036,4.62854 16.97129,1.54284 16.97129,-24.68552 0,-26.22836 -83.31361,-7.71422 -182.05566,-15.42845 -263.05498,8.48564 z"
+         id="path6"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffeeaa;stroke-width:7.71422"
+         d="m 385.55201,225.88806 c -83.3136,-8.48565 -181.28423,-8.48565 -262.28356,14.65702 -13.11418,3.85711 -10.79992,25.45694 3.08569,23.91409 87.17071,-5.39995 170.48431,-22.37124 259.19787,-13.8856 16.19987,1.54285 15.42845,-23.14267 0,-24.68551 z"
+         id="path8"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#0066ff;stroke-width:7.71422"
+         d="m 391.24016,306.46853 c -89.48498,4.62853 -179.74139,2.31426 -269.22637,1.54284 -16.97129,0 -16.97129,26.22836 0,26.99978 50.91387,0.77142 101.05632,1.54284 151.97019,2.31427 40.11395,0.77142 85.62787,7.71422 123.42756,-9.25707 10.02849,-4.62853 4.62853,-21.59982 -6.17138,-21.59982 z"
+         id="path10"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4-6"
+         d="M 391.96217,78.14011 C 306.33431,61.94024 204.50657,49.59748 118.8787,73.51157 c -12.34276,3.85711 -10.02849,23.14267 3.08569,23.14267 42.42822,0 84.85644,-6.9428 127.28467,-6.9428 45.51391,0.77142 91.02782,5.39996 136.54174,13.8856 15.42844,3.08569 22.37124,-22.37124 6.17137,-25.45693 z"
+         style="stroke-width:7.71422" />
+    </g>
+    <text
+       transform="translate(0.15428776,34.867604)"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Architects Daughter';-inkscape-font-specification:'Architects Daughter, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2545);"
+       id="text2543"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="20.410156"
+         y="63.212507"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.3333px;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Single Click,</tspan><tspan
+           dx="8.7643127" /></tspan><tspan
+         sodipodi:role="line"
+         x="20.410156"
+         y="116.12913"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.3333px;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Git Hosted,</tspan><tspan
+           dx="8.7643127" /></tspan><tspan
+         sodipodi:role="line"
+         x="20.410156"
+         y="169.04576"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.3333px;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Policy Documents</tspan></tspan></text>
+    <text
+       style="font-size:10.5833px;line-height:1.25;font-family:'Architects Daughter';-inkscape-font-specification:'Architects Daughter, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2555);"
+       id="text2553"
+       xml:space="preserve" />
+    <text
+       style="font-size:10.5833px;line-height:1.25;font-family:'Architects Daughter';-inkscape-font-specification:'Architects Daughter, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2561);"
+       id="text2559"
+       xml:space="preserve" />
+    <text
+       style="font-size:10.5833px;line-height:1.25;font-family:'Architects Daughter';-inkscape-font-specification:'Architects Daughter, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2567);"
+       id="text2565"
+       xml:space="preserve" />
+    <text
+       xml:space="preserve"
+       id="text2543-0"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Architects Daughter';-inkscape-font-specification:'Architects Daughter, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2545-9);fill:#ff5555;fill-opacity:1;"
+       transform="translate(-16.629711,-248.18909)"><tspan
+         sodipodi:role="line"
+         x="20.410156"
+         y="50.952848"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:'Ink Free';-inkscape-font-specification:'Ink Free, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff5555;fill-opacity:1">One Click,</tspan><tspan
+           dx="6.0082397" /></tspan><tspan
+         sodipodi:role="line"
+         x="20.410156"
+         y="86.2306"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:'Ink Free';-inkscape-font-specification:'Ink Free, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff5555;fill-opacity:1">Git Hosted,</tspan><tspan
+           dx="6.0082397" /></tspan><tspan
+         sodipodi:role="line"
+         x="20.410156"
+         y="121.50835"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:'Ink Free';-inkscape-font-specification:'Ink Free, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff5555;fill-opacity:1">Policy Documents</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2543-4"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Architects Daughter';-inkscape-font-specification:'Architects Daughter, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2545-4);fill:#0066ff;fill-opacity:1;"
+       transform="translate(-51.802381,-423.30408)"><tspan
+         sodipodi:role="line"
+         x="20.410156"
+         y="50.952848"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:'Ink Free';-inkscape-font-specification:'Ink Free, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0066ff;fill-opacity:1">One Click,</tspan><tspan
+           dx="6.0082397" /></tspan><tspan
+         sodipodi:role="line"
+         x="20.410156"
+         y="86.2306"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:'Ink Free';-inkscape-font-specification:'Ink Free, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0066ff;fill-opacity:1">Git Hosted,</tspan><tspan
+           dx="6.0082397" /></tspan><tspan
+         sodipodi:role="line"
+         x="20.410156"
+         y="121.50835"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:'Ink Free';-inkscape-font-specification:'Ink Free, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0066ff;fill-opacity:1">Policy Documents</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2543-2"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Architects Daughter';-inkscape-font-specification:'Architects Daughter, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2545-98);fill:#ffeeaa;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       transform="translate(242.30101,-259.41441)"><tspan
+         sodipodi:role="line"
+         x="20.410156"
+         y="50.952848"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:'Ink Free';-inkscape-font-specification:'Ink Free, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffeeaa;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">One Click,</tspan><tspan
+           dx="6.0082397" /></tspan><tspan
+         sodipodi:role="line"
+         x="20.410156"
+         y="86.2306"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:'Ink Free';-inkscape-font-specification:'Ink Free, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffeeaa;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Git Hosted,</tspan><tspan
+           dx="6.0082397" /></tspan><tspan
+         sodipodi:role="line"
+         x="20.410156"
+         y="121.50835"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:'Ink Free';-inkscape-font-specification:'Ink Free, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffeeaa;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Policy Documents</tspan></tspan></text>
+  </g>
+</svg>

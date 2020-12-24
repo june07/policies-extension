@@ -26,7 +26,7 @@ function upload(policy) {
                 }]
             }
         }
-        axios.post('https://dev-policies.june07.com/extension/policies/add', data, options)
+        axios.post('https://policies.june07.com/extension/policies/add', data, options)
         .then(response => {
             resolve(response)
         })
@@ -137,6 +137,11 @@ chrome.runtime.onMessage.addListener(
             })()
         }
         return true
+    }
+)
+chrome.runtime.onMessageExternal.addListener(
+    function(request, sender, sendResponse) {
+        if (request && request.message && request.message === 'version') sendResponse({ version: chrome.runtime.getManifest().version })
     }
 )
 chrome.browserAction.onClicked.addListener(() => {
