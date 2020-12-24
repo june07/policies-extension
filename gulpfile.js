@@ -5,6 +5,8 @@ const gulp = require('gulp'),
     fs = require('fs'),
     files = ['*icon/**/*', 'background.*', 'termly.io.*', 'manifest.json', '*_locales/**/*', 'policies.css'];
 
+let version
+
 function clean() {
     return del(['./dist/']);
 }
@@ -14,7 +16,7 @@ function copyAllFiles() {
 }
 
 function updateManifest() {
-    let version = JSON.parse(fs.readFileSync('package.json')).version
+    version = JSON.parse(fs.readFileSync('package.json')).version
 
     return gulp.src('manifest.json')
         .pipe(jeditor({
@@ -26,7 +28,7 @@ function updateManifest() {
 
 function zipup() {
     return gulp.src('dist/**/*')
-    .pipe(zip(`archive-${version.replaceAll('.', '_')}.zip`))
+    .pipe(zip(`archive-${version.replace(/\./g, '_')}.zip`))
     .pipe(gulp.dest('dist'))
 }
 
