@@ -33,3 +33,8 @@ jobs:
         
       - name: Run Gulp
         run: gulp 
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: zipped-extension
+          path: dist/archive-*.zip

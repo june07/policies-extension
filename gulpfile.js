@@ -26,7 +26,7 @@ function updateManifest() {
 
 function zipup() {
     return gulp.src('dist/**/*')
-    .pipe(zip('archive.zip'))
+    .pipe(zip(`archive-${version.replaceAll('.', '_')}.zip`))
     .pipe(gulp.dest('dist'))
 }
 
