@@ -34,4 +34,5 @@ function watch() {
     return gulp.watch(files, gulp.series(copyAllFiles, updateManifest, zipup));
 }
 
-exports.default = gulp.series(clean, copyAllFiles, updateManifest, zipup, watch);
+exports.default = gulp.series(clean, copyAllFiles, updateManifest, zipup);
+exports.watch = gulp.series(clean, copyAllFiles, updateManifest, zipup, watch);

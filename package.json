@@ -16,11 +16,10 @@
     "url": "https://github.com/june07/policies-extension/issues"
   },
   "homepage": "https://github.com/june07/policies-extension#readme",
-  "dependencies": {
-    "del": "^6.0.0",
-    "gulp": "^4.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
     "gulp-json-editor": "^2.5.4",
     "gulp-zip": "^5.0.2"
   }
