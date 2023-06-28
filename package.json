@@ -1,6 +1,6 @@
 {
   "name": "policies-extension",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "\"# policies-extension\"",
   "main": "background.js",
   "scripts": {
