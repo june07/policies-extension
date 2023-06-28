@@ -46,7 +46,7 @@
         "*://*.termly.io/",
         "*://*.formswift.com/",
         "*://*.getterms.io/",
-        "storage", "background", "tabs", "cookies"],
+        "background", "tabs", "cookies"],
     "short_name": "__MSG_appShortName__",
     "version_name": "0.0.0"
 }
